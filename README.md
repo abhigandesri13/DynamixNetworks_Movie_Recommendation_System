@@ -135,7 +135,7 @@ DynamixNetworks_Movie_Recommendation_System/
 I have officially shared this project and demonstration video on LinkedIn as part of my internship submission.
 
 👉 LinkedIn Post:                               
-                                                                                   
+ https://www.linkedin.com/posts/abhilash-gandesri1330_dynamixnetworks-machinelearning-recommendationsystem-activity-7403033504189628416-jFdl?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEgbgAYBXpyvAzCPMPQmMbF9k2eDNpVKQMs                                                                                                                                                                                           
 
 ## **📌 Internship Deliverables Status**
 
