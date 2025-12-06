@@ -28,9 +28,8 @@ Files used:
 - `tags.csv`  
 - `links.csv`  
 
-Folder structure:                                                                                   
-
-                        data/                                                                 
+Folder structure:                                                                             
+data/                                                                                           
 ratings.csv                                                                 
 movies.csv                                                                
 tags.csv                                                                   
@@ -129,6 +128,14 @@ DynamixNetworks_Movie_Recommendation_System/
 └── README.md                                                                                  
 
 ---
+
+
+## 🔗 LinkedIn Project Announcement
+
+I have officially shared this project and demonstration video on LinkedIn as part of my internship submission.
+
+👉 LinkedIn Post:                               
+                                                                                   
 
 ## **📌 Internship Deliverables Status**
 
